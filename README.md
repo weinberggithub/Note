@@ -1,2 +1,2 @@
 # Note
-record learning note 
+A repo for learning notes and e-books
