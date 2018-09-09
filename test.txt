@@ -1,1 +1,5 @@
-this is an merge test.
+<<<<<<< HEAD
+this is A teast.
+=======
+this is a test.
+>>>>>>> dev
