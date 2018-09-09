@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is A teast.
-=======
-this is a test.
->>>>>>> dev
+
