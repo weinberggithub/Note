@@ -7,3 +7,9 @@
 
 
 ##二、
+
+
+
+
+##打印变量显示容量
+set print elements num(eg. 500 byte)
